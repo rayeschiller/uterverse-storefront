@@ -1,10 +1,10 @@
 /* Customize your main colors in :root variables */
 :root {
-  --main-background-color: #343A50;
-  --card-background-color: #804980;
-  --countdown-background-color: #433765;
-  --main-text-color:#F7F6F4;
-  --title-text-color:#3CBA8B;
+  --main-background-color: #1d4be7;
+  --card-background-color: #1d4be7;
+  --countdown-background-color: #6681ce;
+  --main-text-color:#f3c64f;
+  --title-text-color:#fff3d1;
 }
 
 body{
